@@ -1,4 +1,5 @@
-------------------------------------------------------------------------------------Data Structures and Algorithms Practice-------------------------------------------------------------------------------------
+Data Structures and Algorithms Practice
+
 This repository contains my implementations and practice exercises for various Data Structures and Algorithms (DSA) topics. It serves as a learning and reference resource for sharpening my skills in problem-solving and algorithmic thinking.
 
 Overview-
